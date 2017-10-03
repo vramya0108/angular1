@@ -1,0 +1,3 @@
+Code is written using angular 1.  The use of http service, external json file, javascript object array, using custom filter are all learnings from the project
+Also, the advantage of using promise, observables, and parallel event emiters was be explored though not used due to lack of time.
+The advantage of angular 2 typescript and babel dependency was also understood through going through refereces.
