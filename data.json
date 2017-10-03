@@ -1,4 +1,4 @@
-records = [
+data = [
 {
 "name": "a1",
 "category": "C1",
